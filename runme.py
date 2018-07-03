@@ -17,6 +17,6 @@ for index, row in df.iterrows():
     bestMean = np.mean(bestCombination)
     print('CV:', (bestStd/bestMean*100), "std:", bestStd, "mean", bestMean, "combination", bestCombination)
 print(.0683094506583124*12.18)
-print('Were Fucked')
+print('Were so Fucked')
 
 
